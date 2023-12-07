@@ -26,7 +26,6 @@ if (reg1.test($request.url)) {
   $prefs.setValueForKey(session_digest, "session_digest");
   $prefs.setValueForKey(request_id, "request_id");
   if ($prefs.valueForKey("request_id") !== null) {
-    $notify("TestFlight自动加入", "哈哈哈哈", "");
   } else {
     $notify("TestFlight自动加入", "信息获取失败", "请添加testflight.apple.com");
   }
