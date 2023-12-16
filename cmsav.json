@@ -112,55 +112,19 @@
         "api": "http://www.madouse.la/api.php/provide/vod/"
     },
     {
-        "name": "色屌丝",
-        "api": "https://sdszyapi.com/cjapi/fei4/vod/json.html"
+        "name": "成人",
+        "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/"
     },
     {
-        "name": "吾爱",
-        "api": "https://52zyapi.com/cjapi/fei4/vod/json.html"
+        "name": "甜蜜",
+        "api": "https://timizy10.cc/api.php/provide/vod/"
     },
     {
-        "name": "feifei",
-        "api": "http://www.feifei67.com/api.php/provide/vod/"
+        "name": "滴滴",
+        "api": "https://api.ddapi.cc/api.php/provide/vod/"
     },
     {
-        "name": "飘花资源",
-        "api": "http://www.ahjiuman.com/api.php/provide/vod/"
-    },
-    {
-        "name": "天翼资源",
-        "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
-    },
-    {
-        "name": "新马影视",
-        "api": "https://movie.gsl99.com/api.php/provide/vod/"
-    },
-    {
-        "name": "飘零资源",
-        "api": "https://p2100.net/api.php/provide/vod/"
-    },
-    {
-        "name": "789资源",
-        "api": "https://www.rrvipw.com/api.php/provide/vod/"
-    },
-    {
-        "name": "速播资源",
-        "api": "https://subocaiji.com/api.php/provide/vod/"
-    },
-    {
-        "name": "夸克资源",
-        "api": "https://kuakezy1.com/api.php/provide/vod/"
-    },
-    {
-        "name": "鱼乐资源",
-        "api": "https://api.ylzy.me/api.php/provide/vod/"
-    },
-    {
-        "name": "大漠资源",
-        "api": "https://damozy1.com/api.php/provide/vod/"
-    },
-    {
-        "name": "奇虎资源",
-        "api": "https://caiji.qhzyapi.com/api.php/provide/vod"
+        "name": "雪豹",
+        "api": "https://api.xbapi.cc/api.php/provide/vod/"
     }
 ]
