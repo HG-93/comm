@@ -159,5 +159,9 @@
     {
         "name": "大漠资源",
         "api": "https://damozy1.com/api.php/provide/vod/"
+    },
+    {
+        "name": "奇虎资源",
+        "api": "https://caiji.qhzyapi.com/api.php/provide/vod"
     }
 ]
