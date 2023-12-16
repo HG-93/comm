@@ -112,12 +112,12 @@
         "api": "http://www.madouse.la/api.php/provide/vod/"
     },
     {
-        "name": "新浪资源",
-        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+        "name": "色屌丝",
+        "api": "https://sdszyapi.com/cjapi/fei4/vod/json.html"
     },
     {
-        "name": "飞速资源",
-        "api": "https://www.feisuzyapi.com/api.php/provide/vod/"
+        "name": "吾爱",
+        "api": "https://52zyapi.com/cjapi/fei4/vod/json.html"
     },
     {
         "name": "feifei",
