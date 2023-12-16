@@ -121,11 +121,43 @@
         "api": "https://www.feisuzyapi.com/api.php/provide/vod/"
     },
     {
-        "name": "夸克资源",
-        "api": "https://kuakezy2.com/api.php/provide/vod/"
-    },
-    {
         "name": "feifei",
         "api": "http://www.feifei67.com/api.php/provide/vod/"
+    },
+    {
+        "name": "飘花资源",
+        "api": "http://www.ahjiuman.com/api.php/provide/vod/"
+    },
+    {
+        "name": "天翼资源",
+        "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
+    },
+    {
+        "name": "新马影视",
+        "api": "https://movie.gsl99.com/api.php/provide/vod/"
+    },
+    {
+        "name": "飘零资源",
+        "api": "https://p2100.net/api.php/provide/vod/"
+    },
+    {
+        "name": "789资源",
+        "api": "https://www.rrvipw.com/api.php/provide/vod/"
+    },
+    {
+        "name": "速博资源",
+        "api": "https://subocaiji.com/api.php/provide/vod/"
+    },
+    {
+        "name": "夸克资源",
+        "api": "https://kuakezy1.com/api.php/provide/vod/"
+    },
+    {
+        "name": "鱼乐资源",
+        "api": "https://api.ylzy.me/api.php/provide/vod/"
+    },
+    {
+        "name": "大漠资源",
+        "api": "https://damozy1.com/api.php/provide/vod/"
     }
 ]
