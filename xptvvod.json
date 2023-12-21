@@ -493,6 +493,16 @@
             "searchable":0,
             "quickSearch":0,
             "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key":"csp_Missav",
+            "name":"MISSAV",
+            "type":3,
+            "api":"csp_Missav",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":1
         }
     ]
 }
