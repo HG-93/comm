@@ -1,0 +1,18 @@
+name: Post to CTC API every 2 minutes
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"  # 每2分钟执行
+  workflow_dispatch:       # 手动触发按钮（可选）
+
+jobs:
+  call-api:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send POST request to ctc.run
+        run: |
+          curl -X POST "https://www.ctc.run/api/v1/user/order/save" \
+          -H "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NjQ4MSwic2Vzc2lvbiI6IjM1Yjg4ODQ5Yzg2YjQ1NDAxN2ExNmVlYzM3NGUyODVkIn0.YRDh1TITVWGoTSYihIJmQjTxWBxBuqpGVeVeBlMAdjY" \
+          -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" \
+          -H "Content-Type: application/x-www-form-urlencoded" \
+          --data "period=year_price&plan_id=11&coupon_code=20%25OFF"
